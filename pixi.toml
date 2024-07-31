@@ -1,7 +1,7 @@
 [project]
-name = "FAF5-Analysis"
+name = "geo-ftads"
 version = "0.1.0"
-description = "Add a short description here"
+description = "Geospatial fleet transition and decision support"
 authors = ["Danika MacDonell <danikam@mit.edu>"]
 channels = ["conda-forge"]
 platforms = ["osx-arm64", "osx-64", "linux-64"]
